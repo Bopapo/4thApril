@@ -34,3 +34,4 @@ print(multiplication) # Output: 16
 # Dividing a number with another
 division = computations.divider(2,4)
 print(division) # Output: 0.5
+
