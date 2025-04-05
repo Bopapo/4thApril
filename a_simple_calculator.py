@@ -1,4 +1,5 @@
 # A simple calculator following OOP paradigm
+#!/usr/bin/env python3
 
 class Calculator:
     def __init__(self):
